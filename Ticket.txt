@@ -1,0 +1,11 @@
+Ticket
+I can't log into my account after resetting the password.
+The system charged me twice for my subscription.
+The mobile app crashes when I upload a file.
+I would like to request a dark mode feature.
+How do I change my registered email address?
+I'm seeing a 500 error when trying to submit the form.
+Why am I being asked to pay again after renewal?
+I forgot my password and now I can't access my account.
+I need help with an incorrect billing amount.
+The new update caused the dashboard to stop working.
